@@ -9,8 +9,6 @@ import UIKit
 
 var countsNum:Int = 0
 
-
-
 class ViewController: UIViewController {
     @IBOutlet weak var button: UIButton!
     @IBOutlet weak var label: UILabel!
